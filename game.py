@@ -179,8 +179,8 @@ class TetrisGame:
 
             # A brief pause to the game
             self.clock.tick(gamespeed)
-
-    pygame.quit()
+        pygame.image.save(self.screen, "screenshot.png")
+        pygame.quit()
     
             
 def main():
