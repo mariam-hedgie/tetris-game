@@ -1,5 +1,7 @@
 # Tetris Game (Python + Pygame)
 
+This is my college python class project.
+
 A simple Tetris game built using Python and the Pygame library.
 
 ## 📸 Screenshot
